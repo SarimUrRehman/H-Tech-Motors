@@ -1,0 +1,6 @@
+{
+  "name": "H Tech Motor Inc.",
+  "description": "Modern, responsive website for H Tech Motor Inc. auto repair shop in Richmond, BC featuring honest repairs, reliable performance, service list, Google reviews, and appointment booking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
